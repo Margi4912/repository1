@@ -6,10 +6,10 @@ This simple image identifier is to distinguish images between cats and dogs.
 
 ***🤖 Technologies***
 
-Python 3
-Tensorflow
-Open CV
-Matplotlib
+• Python 3
+• Tensorflow
+• Open CV
+• Matplotlib
 
 ***💻 Instalation and Launch***
 
