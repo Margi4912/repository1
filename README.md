@@ -1,17 +1,17 @@
 # Image Identifier
 
-**📌 Description**
+***📌 Description***
 
 This simple image identifier is to distinguish images between cats and dogs.
 
-**🤖 Technologies**
+***🤖 Technologies***
 
 • Python 3
 • Tensorflow
 • Open CV
 • Matplotlib
 
-**💻 Instalation and Launch**
+***💻 Instalation and Launch***
 
 1. Install Pycharm - https://www.jetbrains.com/pycharm/download/?section=windows
 2. Open test_classificator.py with Pycharm
