@@ -7,9 +7,9 @@ This simple image identifier is to distinguish images between cats and dogs.
 🤖 ***Technologies***
 
 • Python 3
-• Matplotlib
-• Tensorflow
-• Open CV
+<br/>• Matplotlib
+<br/>• Tensorflow
+<br/>• Open CV
 
 💻 ***Instalation and Launch***
 
